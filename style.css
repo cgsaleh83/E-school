@@ -110,7 +110,6 @@ input{
 }
 .card:hover{
     box-shadow: none;
-    border: 1px dotted #ddd;
 }
 .fa{
     margin-right: 5px;
